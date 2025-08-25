@@ -1,6 +1,6 @@
 # School Management System
 
-A comprehensive web-based School Management System built with PHP, designed to streamline administrative and academic operations for educational institutions.
+A comprehensive web-based School Management System built with PHP,Bootstrap,Html, and Css, designed to streamline administrative and academic operations for educational institutions.
 
 ## 🚀 Tech Stack
 

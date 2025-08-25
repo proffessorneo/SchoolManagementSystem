@@ -13,7 +13,7 @@ A comprehensive web-based School Management System built with PHP,Bootstrap,Html
 
 Before you begin, ensure you have the following installed on your machine:
 *   A web server ([XAMPP](https://www.apachefriends.org/),)
-*   **PHP** 
+*   **PHP**  (>= 7.2)
 *   **MySQL**
 
 ## 📥 Installation & Setup
@@ -24,3 +24,8 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone https://github.com/Eo9ine/SchoolManagementSystem.git
 cd SchoolManagementSystem
+
+###  **2. Clone the Repository **
+Start your local server (Start Apache and MySQL modules in XAMPP/WAMP/Laragon).
+
+Move the project folder to your web server's root directory (e.g., C:\xampp\htdocs\ on Windows or /var/www/html/ on Linux).

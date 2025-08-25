@@ -24,8 +24,13 @@ Follow these steps to get the project running on your local machine.
 ```bash
 git clone https://github.com/Eo9ine/SchoolManagementSystem.git
 cd SchoolManagementSystem
+```
 
-###  **2. Clone the Repository **
-Start your local server (Start Apache and MySQL modules in XAMPP/WAMP/Laragon).
+### 2. Clone the Repository
+```bash
+1.Start your local server (Start Apache and MySQL modules in XAMPP/WAMP/Laragon).
+2.Move the project folder to your web server's root directory (e.g., C:\xampp\htdocs\ on Windows or /var/www/html/ on Linux).
+3.Open your browser and navigate to the project's URL:  ** http://localhost/SchoolManagementSystem/ **
+```
 
-Move the project folder to your web server's root directory (e.g., C:\xampp\htdocs\ on Windows or /var/www/html/ on Linux).
+

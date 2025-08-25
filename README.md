@@ -12,7 +12,7 @@ A comprehensive web-based School Management System built with PHP,Bootstrap,Html
 ## ⚙️ Prerequisites
 
 Before you begin, ensure you have the following installed on your machine:
-*   A web server (e.g., [XAMPP](https://www.apachefriends.org/), [WAMP](https://www.wampserver.com/), [Laragon](https://laragon.org/), or [MAMP](https://www.mamp.info/))
+*   A web server ([XAMPP](https://www.apachefriends.org/),)
 *   **PHP** 
 *   **MySQL**
 
